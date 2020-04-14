@@ -12,8 +12,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs: I HATE QUARANTINE 
-  # This workflow contains a single job called "build"
-  build: WKWKWKWKKWKWKWKWK
+  # This workflow contains a single job called "hahahahahahah"
+  build: hahahahahaha
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
